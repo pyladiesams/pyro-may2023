@@ -1,20 +1,32 @@
+# An Introduction to Pyro
 
-# An introduction to { YOUR TOPIC } or A deep dive into { YOUR TOPIC }
 ### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+
+In this workshop we will go through an introduction of the popular framework for probabilistic programming that is Uber's Pyro.
+Participants will learn how to introduce regularization and prior assumptions into a model, at first for a simple use case of Bayesian Linear Regression and later in a introduction to deep generative models with Pyro.
+
+As Pyro is built on PyTorch, some prior knowledge of PyTorch can be useful.
+Feel free to check out the PyLadies' previous introduction to the topic:
+https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022
 
 ## Requirements
-Do not forget to indicate Python version and any other tools
-+ add requirements.txt or conda.yml or docker image or Binder/Google Collab link
+
+- Python 3.8 or higher
+- Jupyter notebook or jupyter-lab
+- [Optional] graphviz for visualization of models
+  - Can be installed e.g. on Ubuntu with `sudo apt install graphviz`
 
 ## Usage
-* Clone the repository
-* Start { TOOL } and navigate to the workshop folder
+
+- Clone the repository
+- Install the required dependencies with `pip3 install -r requirements.txt`
 
 ## Video record
+
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your github handler}
+
+This workshop was set up by @pyladiesams and GiuliaCaglia.
