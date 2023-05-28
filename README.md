@@ -25,7 +25,7 @@ https://github.com/pyladiesams/deepLearningPyTorch-beginner-nov2022
 
 ## Video record
 
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/avrh5dHi0ro)
 
 ## Credits
 
