@@ -1,11 +1,13 @@
 # An Introduction to Pyro
 
-### Presentation: [Presentation_name](workshop/Presentation_template.pptx)
+### Level: Beginner
+
+### Presentation: [Introduction to Pyro](workshop/Introduction to Pyro - PyLadies.pptx)
 
 ## Workshop description
 
 In this workshop we will go through an introduction of the popular framework for probabilistic programming that is Uber's Pyro.
-Participants will learn how to introduce regularization and prior assumptions into a model, at first for a simple use case of Bayesian Linear Regression and later in a introduction to deep generative models with Pyro.
+Participants will learn how to introduce regularization and prior assumptions into a model, at first for a simple use case of Bayesian Linear Regression and later in an introduction to deep generative models with Pyro.
 
 As Pyro is built on PyTorch, some prior knowledge of PyTorch can be useful.
 Feel free to check out the PyLadies' previous introduction to the topic:
