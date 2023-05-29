@@ -2,7 +2,7 @@
 
 ### Level: Beginner
 
-### Presentation: [Introduction to Pyro](workshop/Introduction to Pyro - PyLadies.pptx)
+### Presentation: [Introduction to Pyro](Introduction_to_Pyro_PyLadies)
 
 ## Workshop description
 
